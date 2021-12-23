@@ -1,0 +1,73 @@
+﻿  Main.cpp
+F:\Work\Programming\Robo\cube.h(59,33): warning C4305: '=': truncation from 'double' to 'float'
+F:\Work\Programming\Robo\cube.h(64,35): warning C4305: '=': truncation from 'double' to 'float'
+F:\Work\Programming\Robo\Main.cpp(28,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(32,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(37,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(39,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(130,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\Work\Programming\Robo\Main.cpp(137,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(138,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(152,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(153,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(178,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(178,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(178,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(179,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(179,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(179,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(180,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(180,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(180,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(181,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(181,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(181,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(214,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(214,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(214,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(291,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Work\Programming\Robo\Main.cpp(339,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(366,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\Programming\Robo\Main.cpp(369,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\Programming\Robo\Main.cpp(391,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(397,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(397,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(397,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(404,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(409,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(409,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(409,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(430,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(433,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(459,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(459,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(461,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(461,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(463,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(467,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(480,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(480,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(482,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(482,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(485,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(485,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\Programming\Robo\Main.cpp(506,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(506,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(508,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(508,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(511,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(515,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(530,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(530,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(532,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(532,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(535,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\Main.cpp(535,65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  QuadMesh.cpp
+F:\Work\Programming\Robo\QuadMesh.cpp(34,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+F:\Work\Programming\Robo\QuadMesh.cpp(56,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Work\Programming\Robo\QuadMesh.cpp(91,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+F:\Work\Programming\Robo\QuadMesh.cpp(97,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+  Robo.vcxproj -> F:\Work\Programming\Robo\Debug\Robo.exe
